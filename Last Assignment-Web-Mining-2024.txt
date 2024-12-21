@@ -1,0 +1,54 @@
+Last Assignment: Advanced Pattern Mining
+Course: Web Mining
+Total Marks: 15
+Instructions:
+•
+•
+•
+
+Answer all questions.
+Provide explanations and steps wherever necessary.
+Maximum marks for the assignment: 15.
+
+Questions:
+1. (3 marks) Association Rule Mining in Web Data:
+Consider a web application that tracks user interactions (clicks, searches, page visits) in an e-commerce
+website. Discuss how association rule mining could be used to discover patterns in the browsing
+behavior of users. Provide an example of a rule that could be generated from such data (e.g., "If a
+user clicks on product A, they are likely to click on product B"). Include the
+terms support, confidence, and lift in your explanation.
+2. (3 marks) Sequential Pattern Mining:
+Sequential pattern mining is often used to discover patterns in web data over time (e.g., sequences of
+pages visited by a user). Suppose you have the following sequence of user actions on a website:
+•
+•
+•
+
+User 1: [Home → Product Page → Checkout]
+User 2: [Home → Search → Product Page → Checkout]
+User 3: [Home → Product Page → Checkout]
+
+Explain how sequential pattern mining can be applied to identify frequent sequences. What is the
+minimum support threshold that would generate the sequence "Home → Product Page → Checkout"?
+3. (4 marks) Clustering Patterns in Web Data:
+A website collects information on the types of articles read by users, including categories such as
+"Sports", "Technology", and "Entertainment". Users are grouped based on their browsing patterns.
+Describe how clustering can be applied to this web data to group users with similar interests. Mention
+at least one clustering algorithm (e.g., K-means, DBSCAN) that could be useful for this task and explain
+how it works in brief.
+4. (5 marks) Evaluation of Pattern Mining Techniques:
+Evaluate the effectiveness of pattern mining techniques in web mining. Discuss one advantage and
+one limitation of using pattern mining for web data.
+
+Submission Guidelines:
+•
+•
+•
+•
+
+Provide detailed answers with relevant examples.
+Submit the assignment by December 15, 2024.
+Submission Method: 3168744799@qq.com
+Late submissions will incur a deduction in marks.
+
+
